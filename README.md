@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm real6000</h1>
 <h3 align="center">Passionate full-stack hobbyist (kinda)</h3>
 
-- 🔭 I’m currently working on [ml-java](https://github.com/real6000/ml-java)
+- 🔭 I’m currently working on [ml-java](https://github.com/real6000/ml-java) (also planning to work on future projects with other langs.)
 
 - 🌱 I’m currently learning **C++ MongoDB**
 
